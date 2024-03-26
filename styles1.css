@@ -1,0 +1,425 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Anton&family=Archivo+Black&family=Bebas+Neue&family=Noto+Sans:ital,wght@0,400;1,100&family=Rajdhani:wght@300&family=Smooch+Sans:wght@200&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Catamaran');
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
+
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.logo{
+    height:90px;
+    width:50px ;
+    margin: 0%;
+    padding: 0%;
+   
+}
+.logo1{
+    display: flex;
+    color:rgba(218, 165, 32, 0.555);
+    
+    margin: 20px 15px 40px 130px;
+    
+    padding: 10px 60px 40px 30px; 
+  
+}
+
+.logo2{
+    position: relative;
+    top: 20px;
+    padding-right: 800px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+
+.section1{
+    background-image: linear-gradient( rgba(65, 66, 68, 0.432),rgba(65, 66, 68, 0.479), rgba(65, 66, 68, 0.486), rgba(65, 66, 68, 0.425)) ,url('pic.jpg');
+    padding: 140px 70px 140px 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+
+    /* background: linear-gradient(
+      217deg,
+      rgba(255, 0, 0, 0.8),
+      rgba(255, 0, 0, 0) 70.71%
+    ), linear-gradient(127deg, rgba(0, 255, 0, 0.8), rgba(0, 255, 0, 0) 70.71%),
+    linear-gradient(336deg, rgba(0, 0, 255, 0.8), rgba(0, 0, 255, 0) 70.71%  url('pic.jpg')); */
+}
+
+
+.page1{
+    font-family: 'Oswald';
+
+    font-size: 80px;
+    color:rgba(218, 165, 32, 0.555);
+}
+    
+
+.para2{
+    font-family: 'Rubik';
+   
+    font-size: 25px;
+    color: rgba(243, 238, 226, 0.555);
+
+}
+
+.click{
+    position: relative;
+    font-size: 20px; 
+    padding: 20px;
+    /* padding-left: 40px;
+    padding-right: 45px; */
+    margin-top: 50px;
+    background-color: rgba(218, 165, 32, 0.555);
+    border: none;
+    
+ 
+}
+
+.maindiv{
+    position: relative;
+    left: 12%;
+    top:20%;
+    width:600px;
+
+}
+.section2{
+    display: flex;
+    padding-top: 60px;
+    padding-left: 140px;
+   
+   
+    
+
+
+}
+.photo2{
+    padding-top: 3px;
+    padding-right: 30px;
+    padding-left: 170px;
+
+    height:630px;
+    width: auto;
+
+
+}
+
+.para3{
+    font-family: 'Rubik';
+    font-size: 23px;
+}
+
+.maindiv2{
+    font-family: 'Bitter';
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.click2{
+    background-color:  rgba(218, 165, 32, 0.555);
+    font-size: 20px;
+    padding:20px;
+    padding-left: 40px;
+    padding-right: 45px;
+    margin-top: 25px;
+    border: none;
+}
+.section3{
+    background-image: linear-gradient( rgba(65,66, 68, 0.288), rgba(65, 66, 68, 0.288), rgba(65, 66, 68, 0.288)), url('pic3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:auto;
+    text-align: center;
+   margin-top: 50px;
+   
+}
+
+.maindiv3{
+    font-family: 'Oswald';
+    font-size: 60px;
+    padding-top: 120px;
+    color:rgba(218, 165, 32, 0.767); 
+
+
+
+}
+
+.para4{
+    font-family:'Oswald';
+    font-size: 35px;
+    color:rgba(218, 165, 32, 0.767); 
+
+}
+
+.para5{
+   border: 3px solid  rgba(218, 165, 32, 0.555);
+   font-family: 'Rubik';
+   text-align: center;
+   font-size: 20px;
+   margin: 20PX;
+   padding: 50px 50px 50px 40px;
+   color: white;
+   
+
+}
+
+.section4{
+    display: flex;
+    padding: 90px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+.new{
+    color: rgba(218, 165, 32, 0.767);
+    font-family: 'Kalam'
+}
+.last i{
+    padding:10px;
+
+}
+
+.days{
+    color: rgba(214, 159, 19, 0.788);
+    font-family: 'Rubik';
+    font-size: 22px;
+
+}
+
+.section5{
+    font-family: 'Rubik';
+    /* padding-left: 100px; */
+
+}
+
+.gap{
+    padding-top: 40px;
+}
+
+.title1{
+    padding-left: 100px;
+    padding-top: 45px;
+    
+    font-family: 'Catamaran';
+    font-size: 28px;
+}
+
+
+
+
+.title{
+    padding-left: 100px;
+    font-family: 'Barlow';
+    font-size: 20px;
+
+}
+.title i{
+    color: rgba(218, 165, 32, 0.555);
+    padding-right: 25px;
+    font-size: 30px;
+}
+.address{
+    display: flex;
+}
+
+.address1{
+    width: 180px;
+    padding-bottom: 30px;
+    
+}
+
+.data{
+    padding-top: 35px;
+}
+
+/* .address2{
+    
+    padding-bottom: 30px;
+
+} */
+
+.para6{
+    padding-left: 100px;
+    font-family: 'Rubik';
+    font-size: 20px;
+
+}
+.last i{
+    color: rgba(218, 165, 32, 0.555);
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin-top: 70px;
+
+}
+
+.member{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.time{
+    
+    font-family: 'Rubik';
+}
+
+@media (max-width: 400px) {
+     .logo1 {
+      font-size: 16px;
+      display: flex;
+      color: rgba(218, 165, 32, 0.555);
+      margin: 0;
+      padding: 0;
+     
+        }
+        .page1 {
+        
+            font-size: 50px;
+        
+        }
+        .para2 {
+        
+            font-size: 15px;
+           
+            
+        }
+        .maindiv2 {
+    
+            font-size: 35px;
+            margin-top: 45px;
+        }
+
+        .para3 {
+        
+            font-size: 25px;
+        }
+        .section2 {
+          
+            padding-top: 28px;
+            padding-left: 1px;
+            flex-direction: column;
+        }
+
+        .maindiv3 {
+        
+            font-size: 20px;
+            padding-top: 57px;
+        
+        }
+
+        
+        .para4 {
+        
+            font-size: 25px;
+        
+        }
+        .section4{
+            flex-direction: column;
+        }
+        
+
+
+        .para5 {
+
+            text-align: center;
+            font-size: 20px;
+            margin: 20PX;
+    
+        }
+
+        .title1 {
+            padding-left: 118px;
+            padding-top: 61px;
+            font-size: 28px;
+        }
+
+        .data {
+            padding-top: 17px;
+        }
+        .photo2{
+            padding-left: 0;
+        }
+        .logo2{
+            padding-left: 0;
+        }
+
+
+
+    }
+
+    @media  (max-width: 820px) {
+        .logo1 {
+         font-size: 16px;
+         display: flex;
+         color: rgba(218, 165, 32, 0.555);
+         margin: 0;
+         padding: 0;
+        }
+
+        .logo1 {
+            display: flex;
+            color: rgba(218, 165, 32, 0.555);
+            margin: 4px 32px 9px 49px;
+            padding: 8px 31px 15px 16px;
+        }
+
+
+        .maindiv2 {
+            font-family: 'Bitter';
+            font-size: 50px;
+            margin-top: 16px;
+            margin-right: 5px;
+        }
+      
+
+        .section2 {
+            padding-top: 16px;
+            padding-left: 28px;
+        
+            flex-direction: column;
+        }
+
+
+        .photo2 {
+            padding-top: 64px;
+            padding-right: 12px;
+            padding-left: 130px;
+            height: 630px;
+            width: auto;
+        }
+        
+
+
+        .section4 {
+            display: flex;
+            padding: 1px;
+            padding-left: 1px;
+            padding-right: 6px;
+        }
+
+        .para5 {
+            padding: 5px 4px 5px 5px;
+            color: white;
+        }
+
+
+    }
+
+        
+    
+        
+  
+  
